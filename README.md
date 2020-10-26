@@ -1,4 +1,6 @@
 # Computer-Networking-Chat-Application
+Name: Carlos Menodza, Ryan Dunning
+Me and my partner worked on this project. 
 For this porgram, it only runs in linux.
 To run the program, you have to run it through the terminal. You have to go to the directory that the chat.cpp file is located at in the terminal. Once you are there you have to compile the file.
 Example:g++ chat.cpp -o chat.cpp
